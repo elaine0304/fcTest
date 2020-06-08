@@ -33,7 +33,15 @@ src/
 assets
 routes.js
 App.js
-android/app
+android
+app.json
+babel.config.js
+metro.config.js
+package.json
+package-lock.json
+index.js
+ios
+
 
 # node.js
 #
