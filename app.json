@@ -1,18 +1,15 @@
 {
-  "name": "FanClash",
-  "displayName": "FanClash",
+  "name": "expoTest",
+  "displayName": "expoTest",
   "expo": {
-    "name": "FanClash",
-    "slug": "FanClash",
-    "sdkVersion": "37.0.0",
+    "name": "expotest",
+    "slug": "expotest",
+    "privacy": "unlisted",
     "version": "1.0.0",
+    "sdkVersion": "37.0.0",
     "platforms": [
       "android"
     ],
-    "updates": {
-      "enabled": true,
-      "fallbackToCacheTimeout": 0
-    },
     "assetBundlePatterns": [
       "**/*"
     ]

@@ -33,6 +33,7 @@ src/
 assets
 routes.js
 App.js
+android/app
 
 # node.js
 #
